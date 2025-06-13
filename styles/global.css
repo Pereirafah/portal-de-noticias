@@ -54,7 +54,7 @@ main {
   margin-top: 40px;
   gap: 80px;
 }
-.conteiner-tag {
+.content-tag {
   display: inline-block;
   background-color: var(--brand-color-dark);
   padding: 4px 8px;

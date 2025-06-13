@@ -72,15 +72,16 @@ section header {
 
   figure {
     position: relative;
-
     .content-tag {
       position: absolute;
       top: 8px;
       left: 8px;
     }
+
     p {
-      margin: 8px;
+      margin-top: 8px;
       font-weight: 800;
     }
+    
   }
 }
