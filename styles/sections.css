@@ -64,7 +64,7 @@ section header {
 #weekly {
 grid-area: weekly;
 &>div {
-  grid-template-columns: repeat(4, 292px);
+  grid-template-columns: repeat(4, 220px);
 }
 
   img {
